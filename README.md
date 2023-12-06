@@ -1,5 +1,5 @@
 # learning
-This is my first repo
+This is my first repo(my first)
 <br>
 Aurthor-Sujan Gyawali
 
